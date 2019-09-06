@@ -34,7 +34,7 @@
         }
     ],
 
-    "active": [
+    "notifications": [
         {
             "id": 1001,
             "title": "Zmiana polityki prywatności w aplikacji",
