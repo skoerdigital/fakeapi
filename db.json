@@ -36,19 +36,19 @@
 
     "notifications": [
         {
-            "id": 1001,
+            "id": 1,
             "title": "Zmiana polityki prywatności w aplikacji",
             "message": "Od 1 września zmianie ulega politka prywatności w aplikacji, więcej możnesz poczytać o tym na naszej stronie internetowej www.ecocity.com/privacy-policy",
             "timestamp": "09-09-2019 12:34"
         },
         {
-            "id": 1002,
+            "id": 2,
             "title": "Brak środków na koncie",
             "message": "Zauważyliśmy, że na twoim koncie nie ma już aktywnych środków, doładuj swój portfel by móc korzystać z aplikacji",
             "timestamp": "09-09-2019 10:14"
         },
         {
-            "id": 1002,
+            "id": 3,
             "title": "Nowe hulajnogi",
             "message": "Dostępne są nowe hulajnogi",
             "timestamp": "04-09-2019 10:14"
